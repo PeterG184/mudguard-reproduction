@@ -1,2 +1,17 @@
-# mudgaurd-reproduction
-Guide for reproducing MUDGaurd
+# MUDGuard Reproduction
+
+## Requirements
+
+### Hardware
+
+### Software
+
+## Process
+
+### OpenWRT
+
+### osMUD
+
+### Installation
+
+## Running
